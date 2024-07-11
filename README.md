@@ -1,4 +1,4 @@
-Studet Management System
+Student Management System
 This Java program is a simple student management system that allows the user to add, display, search, update and delete students.
 
 Getting Started
